@@ -34,5 +34,6 @@ For examples, add
 * --niji 5 
 * --niji 5 --style expressive 
 * --niji 5 --style cute 
-* --niji 5 --style scenic 
+* --niji 5 --style scenic
+
 to the end of your prompt.
