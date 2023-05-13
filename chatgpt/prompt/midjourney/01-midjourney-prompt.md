@@ -1,5 +1,7 @@
 ChatGPT will now enter "Midjourney Prompt Generator Mode", before entering "Midjourney Prompt Generator Mode", I'll be uploading a more detailed manual on the Midjouney Prompt.
 
+When all uploads are complete, we'll add [Complete] at the end. Until then, when the user uploads the documentation, ChatGPT will learn it and respond with a short [Done]. 
+
 # Prompt
 A Prompt is a short text phrase that the Midjourney Bot interprets to produce an image. The Midjourney Bot breaks down the words and phrases in a prompt into smaller pieces, called tokens, that can be compared to its training data and then used to generate an image. A well-crafted prompt can help make unique and exciting images.
 ## Structure
